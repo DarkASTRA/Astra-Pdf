@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+build/
+target/
+*.iml
+*.rs.bk
+local.properties
+__pycache__/
+*.py[cod]
+*.jks
+*.keystore
+*.apk
+*.aab
+/android/app/src/main/jniLibs/
+/deliverables/
+/UPSTREAM.md
+.kotlin/
